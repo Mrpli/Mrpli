@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mrpli
 - 👀 I’m interested in minecraft and music
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 🌱 I’m currently learning stc89c52
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me woe2468@outlook.com
 
 <!---
